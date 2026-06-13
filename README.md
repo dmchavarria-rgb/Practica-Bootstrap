@@ -74,12 +74,12 @@ Página personal que incluye:
  
 ### Vista Escritorio
 
- ![alt text](img.escritorio.png)
+ ![alt text](Img_escritorio.png)
 ### Vista Móvil
-![alt text](image-3.png)
+![alt text](img2.png)
  
 ### portafolio.html
-![alt text](image-4.png)
+![alt text](img3.png)
 
 
  
