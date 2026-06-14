@@ -88,7 +88,7 @@ Página personal que incluye:
 ## 🎨 Características de Diseño
  
 - ✅ Diseño responsivo con media queries a 700px
-- ✅ Paleta de colores consistente (azul institucional + dorado)
+- ✅ Paleta de colores consistente (verde institucional)
 - ✅ Navegación fija (sticky) adaptable a móvil
 - ✅ Imágenes fluidas con `max-width: 100%`
 - ✅ Box-sizing: border-box en todos los elementos
