@@ -47,7 +47,7 @@ PRACTICA BOOTSTRAP/
 - **Cards** → presentación de proyectos futuros.  
 - **Accordion** → organización de metas académicas y profesionales.  
 - **Progress Bars** → representación gráfica de habilidades.  
-- **Modal + Formulario** → contacto directo desde la página.  
+- **Modal** → contacto directo desde la página.  
 - **Badges y Buttons** → etiquetas y acciones en proyectos.  
  
 ---
